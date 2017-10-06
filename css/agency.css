@@ -539,7 +539,8 @@ section h3.section-subheading {
   margin-bottom: 50px;
 }
 .team-member img {
-  margin: 0 auto;
+	 /* changed from 0 to 10 */
+  margin: 10 auto;
   border: 7px solid white;
   text-align: center;
 }
